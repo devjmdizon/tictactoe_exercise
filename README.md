@@ -18,3 +18,12 @@ tic-tac-toe/
 ├── .gitignore # Git ignore file
 ├── package.json # Node.js project dependencies
 └── README.md # Project documentation (you are here)
+
+Accessing the Game on GitHub
+This project is hosted on GitHub. You can access and play the game using the following link: https://devjmdizon.github.io/tictactoe_exercise/
+
+Feel free to fork, clone, or contribute to this project!
+
+For any questions or issues, please create an issue on the repository.
+
+Enjoy playing Tic Tac Toe!
