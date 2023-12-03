@@ -1,8 +1,20 @@
-# React + Vite
+# Tic Tac Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Tic Tac Toe game built using React.js for the frontend, Node.js, and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project structure is organized as follows:
+
+tic-tac-toe/
+├── backend/ # Node.js backend files
+│ └── ... # Other backend files
+├── frontend/ # React.js frontend files
+│ ├── src/
+│ │ ├── components/ # React components
+│ │ ├── styles/ # CSS stylesheets
+│ │ └── ... # Other frontend files
+│ └── ... # React.js configuration files
+├── .gitignore # Git ignore file
+├── package.json # Node.js project dependencies
+└── README.md # Project documentation (you are here)
